@@ -1,0 +1,27 @@
+<?php
+return
+[
+	'students' => 'الطلاب',
+	'all_students' => 'كل الطلاب',
+	'pending_students' => 'الطلاب المعلقين',
+	'student_pass_reset' => 'استعادة كلمة مرور طالب',
+	'disabled_students' => 'الطلاب الموقفين',
+	'deleted_students' => 'الطلاب المحذوفين',
+	'posts' => 'المنشورات',
+	'all_posts' => 'كل المنشورات',
+	'pending_post' => 'المنشورات المعلقة',
+	'disabled_post' => 'المنشورات المعطلة',
+	'deleted_post' => 'المنشورات المحذوفة',
+	'reported_post' => 'المنشورات المبلغ عنها',
+	'comments' => 'التعليقات',
+	'all_comments' => 'كل التعليقات',
+	'pending_comments' => 'التعليقات المعلقة',
+	'disabled_comments' => 'التعليقات المعطلة',
+	'deleted_comments' => 'التعليقات المحذوفة',
+	'reported_comments' => 'التعليقات المبلغ عنها',
+	'create_post' => 'انشاء منشور',
+	'' => '',
+	'' => '',
+	'' => '',
+	'' => '',
+];
